@@ -1,0 +1,3 @@
+0. untar tools.tar in your home directory
+1. source export.sh
+2. php 001-download_fastq_by_bioprojectID_from_ebi.php PRJNA472785
